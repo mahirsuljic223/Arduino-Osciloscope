@@ -1,0 +1,10 @@
+C:\Users\Mahir\source\repos\Arduino Osciloscope\Arduino Osciloscope\bin\Debug\Arduino Osciloscope.exe.config
+C:\Users\Mahir\source\repos\Arduino Osciloscope\Arduino Osciloscope\bin\Debug\Arduino Osciloscope.exe
+C:\Users\Mahir\source\repos\Arduino Osciloscope\Arduino Osciloscope\bin\Debug\Arduino Osciloscope.pdb
+C:\Users\Mahir\source\repos\Arduino Osciloscope\Arduino Osciloscope\obj\Debug\Arduino Osciloscope.csprojAssemblyReference.cache
+C:\Users\Mahir\source\repos\Arduino Osciloscope\Arduino Osciloscope\obj\Debug\Arduino_Osciloscope.Form1.resources
+C:\Users\Mahir\source\repos\Arduino Osciloscope\Arduino Osciloscope\obj\Debug\Arduino_Osciloscope.Properties.Resources.resources
+C:\Users\Mahir\source\repos\Arduino Osciloscope\Arduino Osciloscope\obj\Debug\Arduino Osciloscope.csproj.GenerateResource.cache
+C:\Users\Mahir\source\repos\Arduino Osciloscope\Arduino Osciloscope\obj\Debug\Arduino Osciloscope.csproj.CoreCompileInputs.cache
+C:\Users\Mahir\source\repos\Arduino Osciloscope\Arduino Osciloscope\obj\Debug\Arduino Osciloscope.exe
+C:\Users\Mahir\source\repos\Arduino Osciloscope\Arduino Osciloscope\obj\Debug\Arduino Osciloscope.pdb
